@@ -36,4 +36,4 @@ Use this section to recap over some of your major learnings while working throug
 
 ## Acknowledgments
 
-
+Agradeciendo a FRONTEND MENTOR por darnos oportunidad de aprender con ejercicios reales.
